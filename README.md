@@ -38,14 +38,6 @@ This is a modern, fully responsive sample website demonstrating multiple advance
 2. Open `index.html` in any modern web browser (Chrome, Firefox, Edge, Safari).
 3. Explore the interactive button, hover over the embedded links to see previews, experiment with the 3D model colors, watch the autoplay video, and browse the animated gallery.
 
-## Notes
-
-- The 3D configurator uses a publicly available glTF 3D model (astronaut) from modelviewer.dev.
-- The embedded PDF preview uses an external dummy PDF file hosted by W3.org.
-- The autoplay video demonstration uses sample videos from Mozilla Developer Network examples.
-- Review and replace media URLs with your own assets if deploying for production.
-- No backend or server is required; the website runs entirely client-side.
-
 
 ---
 
