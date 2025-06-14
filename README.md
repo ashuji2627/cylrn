@@ -45,6 +45,6 @@ Thank you for exploring this interactive website! For questions or suggestions, 
 
 Emil-id : sahuashu195@gmail.com
 
-Running Site: https://ashuji2627.github.io/cylrn/
+Live Preview: https://ashuji2627.github.io/cylrn/
 
 ```
